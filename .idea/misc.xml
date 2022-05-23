@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/background_shape.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/btnblueish.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/btnred.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/button_shape.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/camerashapebtn.xml" value="0.2565" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.2565" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/ic_camera_24.xml" value="0.2565" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/ic_order.xml" value="0.2565" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/transparant_back.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/drawable/transparant_background.xml" value="0.2595" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_food_panel_bottom_navigation.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_forgot_password.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_login.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_order_dishes.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_order_tobe_prepared.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_ordertobe_prepare_view.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_pending_orders_fragment.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_post_dish.xml" value="0.128" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_registeration.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chef_verify_phone.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_chefloginphone.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_choose_one.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_customer_food_panel_bottom_navigation.xml" value="0.128" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_delivery_food_panel_bottom_navigation.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_delivery_forgot_password.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_delivery_login.xml" value="0.128" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_delivery_login_phone.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_delivery_registeration.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_forgot_password.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_login.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_login_phone.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_registeration.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_update_delete_dish.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/activity_verify_phone.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/chefmenu_update_delete.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/customer_menudish.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment__customerhome.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_chef_home.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_chef_order.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_chef_orders.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_chef_pendingorders.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_chef_profile.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_customercart.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_customerhome.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_customerorders.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_customerprofile.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_customertrack.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_deliverypendingorder.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/layout/fragment_deliveryshiporder.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/menu/chef_bottom_navigation.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/menu/customer_bottom_navigation.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/menu/delivery_bottom_navigation.xml" value="0.2578125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FoodiZone/app/src/main/res/menu/logout.xml" value="0.2578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.128" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

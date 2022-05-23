@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource"
+    >
+
+    <TextView
+        android:id="@+id/pendingorder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:drawablePadding="8dp"
+        android:text="Pending Orders"
+        android:textColor="@color/Blacklogo"
+        android:textSize="21dp"
+        app:drawableLeftCompat="@drawable/ic_baseline_access_time_24" />
+
+    <TableRow
+        android:id="@+id/hr"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/pendingorder"
+        android:background="@color/lightgray" />
+
+    <TextView
+        android:id="@+id/payableorder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hr"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:drawablePadding="8dp"
+        android:text="Payable Orders"
+        android:textColor="@color/Blacklogo"
+        android:textSize="21dp"
+        app:drawableLeftCompat="@drawable/ic_baseline_payment_24" />
+
+    <TableRow
+        android:id="@+id/hr1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/payableorder"
+        android:background="@color/lightgray" />
+
+
+</RelativeLayout>
